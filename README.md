@@ -3,7 +3,7 @@
 
 [![Stars](https://img.shields.io/github/stars/yourusername/GhostCrack?style=social)](https://github.com/yourusername/GhostCrack)
 [![Forks](https://img.shields.io/github/forks/yourusername/GhostCrack?style=social)](https://github.com/yourusername/GhostCrack)
-
+---
 ## Features
 - Fully automated (one command)
 - Beautiful progress bars
@@ -11,10 +11,10 @@
 - Success desktop notification
 - Clean code + comments
 - Works on Kali/Raspberry Pi/Parrot
-
+---
 ## Demo
 ![demo](demo.gif)
-
+---
 ## Installation & Run
 ```bash
 sudo apt update && sudo apt install aircrack-ng python3-pip -y
